@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ders-textbex\ders-textbex\bin\Debug\ders-textbex.exe.config
+C:\Users\User\source\repos\ders-textbex\ders-textbex\bin\Debug\ders-textbex.exe
+C:\Users\User\source\repos\ders-textbex\ders-textbex\bin\Debug\ders-textbex.pdb
+C:\Users\User\source\repos\ders-textbex\ders-textbex\obj\Debug\ders-textbex.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ders-textbex\ders-textbex\obj\Debug\ders-textbex.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ders-textbex\ders-textbex\obj\Debug\ders_textbex.Form1.resources
+C:\Users\User\source\repos\ders-textbex\ders-textbex\obj\Debug\ders_textbex.Properties.Resources.resources
+C:\Users\User\source\repos\ders-textbex\ders-textbex\obj\Debug\ders-textbex.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ders-textbex\ders-textbex\obj\Debug\ders-textbex.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ders-textbex\ders-textbex\obj\Debug\ders-textbex.exe
+C:\Users\User\source\repos\ders-textbex\ders-textbex\obj\Debug\ders-textbex.pdb
